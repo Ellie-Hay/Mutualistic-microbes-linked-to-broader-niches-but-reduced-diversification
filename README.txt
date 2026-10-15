@@ -1,4 +1,4 @@
-Supplementary data and code for "Mutualistic microbes linked with broader niches but reduced diversification"
+Supplementary data and code for "Mutualistic microbes linked to broader niches but reduced diversification"
 
 
 ###############################################################################
